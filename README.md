@@ -2,76 +2,53 @@
 
 ![capa_tela_login](https://user-images.githubusercontent.com/26884429/209461181-632ad67f-b748-4d1d-978e-6760a084404f.png)
 
-## Badges
 
-![Versão do Node.js](https://img.shields.io/badge/Node.js-18.12.1-green)    ![Versão do npm](https://img.shields.io/badge/npm-8.19.2-red)
+<h1 align="center">Badges</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Versão do Node.js](https://img.shields.io/badge/Node.js-v18.12.1-green)    ![Versão do npm](https://img.shields.io/badge/npm-v8.19.2-red) ![Data de lançamento](https://img.shields.io/badge/Release%20Date-December-lightgreen)  ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-## Available Scripts
 
-In the project directory, you can run:
+<h1 align="center">Índice</h1>
 
-### `npm start`
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h1 align="center">Descrição do Projeto</h1>
+<p>
+  Um desafio de projeto sugerido durante o Bootcamp Orange Tech + da Digital Innovation One (DIO), desenvolvido em React a fim de explorar os conceitos de criação de interfaces e reutilização com componentes. O projeto tem dentre suas funções, a validação do usuário antes de enviar dados a um banco de dados fictício.
+</p>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1 align="center">Status do Projeto</h1>
 
-### `npm run build`
+> :construction: Projeto em construção :construction:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h1 align="center">:hammer: Funcionalidades do projeto</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- `Funcionalidade única`: realizar a autenticação do usuário
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h1 align="center"> 📁 Acesso ao Projeto</h1>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+*Clone o repositório https://github.com/Italo1994/Tela-de-Login-React.git*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h1 align="center"> 🛠️ Abrir e Rodar o Projeto</h1>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+*Após clonar o repositório do projeto na sua máquina local, execute os comandos abaixo:*
 
-## Learn More
+- `Instalar as dependências do projeto`: npm install
+- `Executar o projeto`: npm start
+- `Acesse o seu localhost no navegador para o projeto`: [http://localhost:3000](http://localhost:3000)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h1 align="center"> Tecnologias Utilizadas</h1>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Tela de Login React
+- `React`
+- `React Hook Form`
