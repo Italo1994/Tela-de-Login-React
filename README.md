@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+<h1 align="center">Tela de Login - React</h1>
+
+![capa_tela_login](https://user-images.githubusercontent.com/26884429/209461181-632ad67f-b748-4d1d-978e-6760a084404f.png)
+
+## Badges
+
+![Versão do Node.js](https://img.shields.io/badge/Node.js-18.12.1-green)    ![Versão do npm](https://img.shields.io/badge/npm-8.19.2-red)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
