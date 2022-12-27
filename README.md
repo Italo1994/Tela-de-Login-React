@@ -1,6 +1,6 @@
 <h1 align="center">Tela de Login - React</h1>
 
-![capa_tela_login](https://user-images.githubusercontent.com/26884429/209461181-632ad67f-b748-4d1d-978e-6760a084404f.png)
+![new_banner_login](https://user-images.githubusercontent.com/26884429/209687405-2c827061-e32f-490a-b70e-e49cdef46ac3.png)
 
 
 <h1 align="center">Badges</h1>
