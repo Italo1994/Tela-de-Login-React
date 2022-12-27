@@ -1,5 +1,9 @@
 import react from 'react';
-import { Container, Content, Row } from './styles';
+
+import { Container } from './styles';
+import { Login } from './pages/Login';
+import { Image } from './components/Image';
+import bannerImg from './assets/banner.png';
 
 import { Input } from './components/Input';
 import { Button } from './components/Button';
@@ -7,20 +11,8 @@ import { Button } from './components/Button';
 function App() {
   return (
     <Container>
-      <Content>
-        <Row>
-          <h1>Login</h1>
-        </Row>
-        <Row>
-          <Input type="text" placeholder="Usuário" />
-        </Row>
-        <Row>
-          <Input type="password" placeholder="Senha" />
-        </Row>
-        <Row>
-          <Button name="Entrar" />
-        </Row>
-      </Content>
+      <Image src={bannerImg} />
+      <Login />
     </Container>
   );
 }
